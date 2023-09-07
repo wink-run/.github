@@ -2,7 +2,7 @@
 
 English ｜ [中文](./README-cn.md)
 
-<img src="./public/memlink-c2.png" alt="Image" width="150" height="150">
+<img src="./img.png" alt="Image" width="150" height="150">
 
 
 
@@ -43,11 +43,7 @@ This is the motivation behind the development of our product.
 2. [ ] Intelligent topic-based recommendations for your interests.
 3. [ ] One-click access to high-value content.
 
-Feel free to download and try it out if you're interested.
-
-# License
-
-The code is released under the Apache License 2.0.
+Welcome to download and try it out if you're interested, or join us in improving it together.
 
 ---
-A Open Source Project From wink.run
+Produced by Wink.run.
