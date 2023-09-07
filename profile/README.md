@@ -2,7 +2,7 @@
 
 English ｜ [中文](README-cn.md)
 
-<img src="img.png" alt="Image" width="150" height="150">
+<img src="../profile/img.png" alt="Image" width="150" height="150">
 
 
 
