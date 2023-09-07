@@ -1,7 +1,7 @@
 # MemWink
-[English](./README.md) ｜ 中文
+[English](README.md) ｜ 中文
 
-<img src="./img.png" alt="Image" width="150" height="150">
+<img src="img.png" alt="Image" width="150" height="150">
 
 Let your memory wink!
 
