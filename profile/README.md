@@ -12,7 +12,7 @@ Let your memory wink!
 
 #### It can solve frustrations like the following for you:
 
-Existing reading lists and bookmark features are quite limited. When you're browsing the web and come across interesting pages that could be helpful for your research on a specific topic, they may not be immediately useful. You end up opening multiple tabs and hesitate to close them for fear of not being able to find them in the future. Alternatively, you may bookmark them, but when it comes time to use them, they become difficult to locate. Eventually, you find yourself having to open them one by one in search of the information you need, or they become unused zombie web pages. This leads you back to the cycle of opening search engines and entering an endless loop of bookmarking.
+Existing reading lists and bookmark features are quite limited. When you're browsing the web, you often come across interesting content that could be helpful for your work on a particular topic. However, you may not need to use them immediately. In fear of losing track, you end up opening multiple tabs and hesitate to close them. Alternatively, you may bookmark them, but when it comes time to use them, they become difficult to locate. Eventually, you find yourself having to open them one by one in search of the information you need, or they become unused zombie web pages. This leads you back to the cycle of opening search engines and entering an endless loop of bookmarking.
 
 **However, collecting is just the starting point. The real purpose is to review and utilize knowledge, to extract its value.**
 
