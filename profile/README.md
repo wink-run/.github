@@ -27,7 +27,6 @@ This is the motivation behind the development of our product.
 5. [x] Supports both reading list and popup display modes, can be quickly accessed using Ctrl+B.
 6. [x] Supports binding with OPENAI key, and also provides free AI capabilities.
 
-#### Upcoming features in the near future:
 
 1. [ ] Enhanced AI search capability, allowing you to quickly find your bookmarked content.
 2. [ ] Automatic categorization of bookmarks, timely cleaning of unused tags.
@@ -36,12 +35,15 @@ This is the motivation behind the development of our product.
 5. [ ] Collecting content from non-browser channels through a chatbot.
 6. [ ] Optimization of AI summarization and categorization capabilities.
 7. [ ] Support exporting content to note-taking software such as Notion.
+8. [ ] The content within a topic can be summarized, merged, and deduplicated to create a content navigation system.
+9. [ ] Integrate with Free AI Providers (Bard, ChatGPT) through Page Binding.
 
 #### Planned features:
 
 1. [ ] Intelligent synchronization to the cloud.
 2. [ ] Intelligent topic-based recommendations for your interests.
 3. [ ] One-click access to high-value content.
+4. [ ] Agent that Automatically Collects, Organizes, and Summarizes Information Based on Topic
 
 Welcome to download and try it out if you're interested, or join us in improving it together.
 
