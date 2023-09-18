@@ -22,7 +22,14 @@ Let your memory wink!
 3. [x] 文章智能总结和分类，利用AI让他们井井有条
 4. [x] 书签支持访问时间排序，不再一个个的文件夹展开
 5. [x] 支持阅读清单和弹窗两种展现模式，Ctrl+B就能快速唤起使用
-6. [x] 支持OPENAI key绑定，也提供免费的AI能力
+6. [x] 支持OPENAI key绑定
+
+
+#### 产品截图
+
+<img src="../profile/img_1.png" alt="Image"  width="450" height="350">
+<img src="../profile/img_2.png" alt="Image" width="450" height="350">
+<img src="../profile/img_3.png" alt="Image" width="400" height="400">
 
 #### 后续近期功能：
 

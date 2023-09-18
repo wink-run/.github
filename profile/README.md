@@ -27,6 +27,12 @@ This is the motivation behind the development of our product.
 5. [x] Supports both reading list and popup display modes, can be quickly accessed using Ctrl+B.
 6. [x] Supports binding with OPENAI key, and also provides free AI capabilities.
 
+#### Product screenshot
+
+<img src="../profile/img_1.png" alt="Image"  width="450" height="350">
+<img src="../profile/img_2.png" alt="Image" width="450" height="350">
+<img src="../profile/img_3.png" alt="Image" width="400" height="400">
+
 #### Upcoming features in the near future:
 
 1. [ ] Enhanced AI search capability, allowing you to quickly find your bookmarked content.
