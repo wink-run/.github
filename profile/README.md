@@ -8,7 +8,7 @@ English ｜ [中文](../profile/README-cn.md)
 
 Let your memory wink!
 
-**A Chrome extension powered by LLM (Large Language Model) that serves as an alternative to native bookmarks and reading lists. It transforms you from being merely a collector into someone who can easily find and access their collected items when needed. It even brings them right to you, giving you a wink, when you require them!**
+**An AI-driven Chrome extension that can replace native bookmarks and reading list, and it also supports topic classification and content summarization.. It transforms you from being merely a collector into someone who can easily find and access their collected items when needed. It even brings them right to you, giving you a wink, when you require them!**
 
 #### It can solve frustrations like the following for you:
 
