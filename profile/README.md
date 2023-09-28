@@ -1,6 +1,6 @@
 # MemWink
 
-English ｜ [中文](./profile/README-cn.md)
+English ｜ [中文](./README-cn.md)
 
 <img src="../profile/img.png" alt="Image" width="150" height="150">
 
